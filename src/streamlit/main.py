@@ -4,9 +4,6 @@ Streamlit example page with simple oauth authentication
 
 
 # LIBRARIES
-import calendar
-import pandas as pd
-import requests
 import streamlit as st
 
 
